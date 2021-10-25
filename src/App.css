@@ -1,0 +1,11 @@
+.user {
+  text-align: center;
+}
+.user img {
+  width: 100px;
+}
+.user ul {
+  text-align: left;
+  max-width: 400px;
+  margin: auto;
+}
