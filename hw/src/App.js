@@ -9,7 +9,7 @@ function App() {
       id: 1,
       userName: 'Max',
       img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj-1KIYtvjs4ft-nBOoDvTshg3UtK02xhhA&usqp=CAU',
-      tweets: ['fff', 'ffff', 'ffff']
+      tweets: ['Live is just a journey!', 'wow, what an amayzing day!', 'Hello']
     },
     { 
       id: 2,
