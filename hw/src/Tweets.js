@@ -5,12 +5,10 @@ export default function Tweets(props) {
 
     return (
         <div className='tweets-div'>
-            <h1>User name:{props.props.userName}</h1>
+            <h3>User name:{props.props.userName}</h3>
             <img className="tweets-img" src={props.props.img} />
-            <h1>Tweets:</h1>
-            <ul>
-               {tweets.map((tweet) => <li>{tweet}</li>)}
-            </ul>
+            <h3>Tweets:</h3>
+               {tweets.map((tweet) => <li> {tweet}</li>)}
         </div>
     )
 }

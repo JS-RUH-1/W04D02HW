@@ -2,9 +2,11 @@
   text-align: center;
 }
 .tweets-img{
- width: 200px;
+ width: 150px;
+ border-radius: 50%;
 }
 .tweets-div{
   border-bottom: 1px solid grey;
+  padding: 30px 0;
 }
 
