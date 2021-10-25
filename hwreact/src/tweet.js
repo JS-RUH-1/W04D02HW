@@ -6,10 +6,7 @@ function Tweet({ name, img, tw }) {
       <img src={img} width={200} height={200} />
       <h4> Tweets</h4>
       <ul>
-        <li>
-          {tw[0]}
-          {tw[1]}
-        </li>
+        <li>{tw.map((tweet) => tweet)}</li>
       </ul>
 
       <hr />
