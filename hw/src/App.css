@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.tweets-img{
+ width: 200px;
+}
+.tweets-div{
+  border-bottom: 1px solid grey;
+}
+
